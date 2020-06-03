@@ -11,6 +11,7 @@ https://www.yceffort.kr/2020/01/think-about-fetch/
 
 http://hacks.mozilla.or.kr/2015/05/this-api-is-so-fetching/
 
+https://www.javascripture.com/Response
 
 
 구구단 출력
