@@ -1,0 +1,50 @@
+body{
+    font-size: 20px;
+}
+#menu {
+   height: 100px;
+}
+
+#menu ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+#menu ul li {
+    float: left;
+    list-style: none;
+    color: white;
+    background-color: #c0c0c0;
+    line-height: 30px;
+    text-align: center;
+}
+
+#menu ul ul {
+    display: none;
+}
+
+#menu ul li:hover ul {
+    display: block;
+    background: #4b545f;
+    color: white;
+}
+
+#menu .first {
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    width: 150px;
+}
+
+#menu .first:hover {
+    background: #4b545f;
+    color: white;
+    display: block;
+    width: 150px;
+}
+#here {
+    padding:0px;
+    margin:0px;
+    text-align: center;
+}
